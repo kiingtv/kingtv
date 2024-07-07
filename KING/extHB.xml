@@ -1,0 +1,58 @@
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD " tvg-logo="https://images2.imgbox.com/a5/2f/15c3Cu7F_o.png" group-title="CANAIS | HBO",HBO 2 FHD 
+http://bccdn.xyz:80/live/991736395870BL/202428283140/793.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H265" tvg-logo="https://images2.imgbox.com/a5/2f/15c3Cu7F_o.png" group-title="CANAIS | HBO",HBO 2 H265
+http://bccdn.xyz:80/live/991736395870BL/202428283140/254.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://images2.imgbox.com/a5/2f/15c3Cu7F_o.png" group-title="CANAIS | HBO",HBO 2 HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/39.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://images2.imgbox.com/a5/2f/15c3Cu7F_o.png" group-title="CANAIS | HBO",HBO 2 SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/499.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD " tvg-logo="https://images2.imgbox.com/26/18/gPbwkcb8_o.png" group-title="CANAIS | HBO",HBO FAMILY FHD 
+http://bccdn.xyz:80/live/991736395870BL/202428283140/795.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://images2.imgbox.com/26/18/gPbwkcb8_o.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/40.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://images2.imgbox.com/26/18/gPbwkcb8_o.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/496.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://images2.imgbox.com/a8/be/MxFExDB9_o.png" group-title="CANAIS | HBO",HBO FHD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/792.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265" tvg-logo="https://images2.imgbox.com/a8/be/MxFExDB9_o.png" group-title="CANAIS | HBO",HBO H265
+http://bccdn.xyz:80/live/991736395870BL/202428283140/251.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://images2.imgbox.com/a8/be/MxFExDB9_o.png" group-title="CANAIS | HBO",HBO HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/41.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://images2.imgbox.com/a8/be/MxFExDB9_o.png" group-title="CANAIS | HBO",HBO SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/495.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD " tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png" group-title="CANAIS | HBO",HBO MUNDI FHD 
+http://bccdn.xyz:80/live/991736395870BL/202428283140/797.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H265" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png" group-title="CANAIS | HBO",HBO MUNDI H265
+http://bccdn.xyz:80/live/991736395870BL/202428283140/260.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/48.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://images2.imgbox.com/b8/1e/JwXMJrz4_o.png" group-title="CANAIS | HBO",HBO PLUS FHD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/794.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H265" tvg-logo="https://images2.imgbox.com/b8/1e/JwXMJrz4_o.png" group-title="CANAIS | HBO",HBO PLUS H265
+http://bccdn.xyz:80/live/991736395870BL/202428283140/252.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://images2.imgbox.com/b8/1e/JwXMJrz4_o.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/42.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://images2.imgbox.com/b8/1e/JwXMJrz4_o.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/497.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD " tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png" group-title="CANAIS | HBO",HBO POP FHD 
+http://bccdn.xyz:80/live/991736395870BL/202428283140/799.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP H265" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png" group-title="CANAIS | HBO",HBO POP H265
+http://bccdn.xyz:80/live/991736395870BL/202428283140/262.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png" group-title="CANAIS | HBO",HBO POP HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/50.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/796.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265 " tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="CANAIS | HBO",HBO SIGNATURE H265 
+http://bccdn.xyz:80/live/991736395870BL/202428283140/253.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/43.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/498.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="CANAIS | HBO",HBO XTREME FHD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/798.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265 :" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="CANAIS | HBO",HBO XTREME FHD H265 :
+http://bccdn.xyz:80/live/991736395870BL/202428283140/261.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/49.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="CANAIS | HBO",HBO XTREME SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/76662.m3u8
