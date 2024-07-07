@@ -12,7 +12,7 @@
 <channel>
 <name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | SBT[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/blaacktv/kingtv/main/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/KING/EXT/extSB.md</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/KING/EXT/extSB</externallink>
 <fanart>https://raw.githubusercontent.com/blaacktv/kingtv/main/icon.png</fanart>
 <info>KING TV AO VIVO</info>
 </channel>
