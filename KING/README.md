@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS |BAND[/COLOR][/B]</name>
+<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | BAND[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/blaacktv/kingtv/main/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/KING/EXT/extBN</externallink>
 <fanart>https://raw.githubusercontent.com/blaacktv/kingtv/main/icon.png</fanart>
