@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | GLOBO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/KING/EXT/extGB</externallink>
 <fanart></fanart>
 <info>KING TV AO VIVO</info>
