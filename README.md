@@ -1,12 +1,3 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://whatsappdeltayowa.my.canva.site/
-Subject: =?utf-8?Q?Website=20P=C3=A1gina=20de=20Em=20Breve=20Estilo=20Gradiente=20?=
- =?utf-8?Q?Ousado=20Preto=20Turquesa=20Verde=20Neon?=
-Date: Mon, 8 Jul 2024 21:04:46 -0300
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--NvO4HOzWkFP44s2gQMCHLlQuczeDcUsemqhUHNUAVL----"
 
 
 ------MultipartBoundary--NvO4HOzWkFP44s2gQMCHLlQuczeDcUsemqhUHNUAVL----
