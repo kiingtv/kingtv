@@ -1,8 +1,0 @@
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/868.m3u8
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD H265" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/76679.m3u8
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/324.m3u8
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/450.m3u8
