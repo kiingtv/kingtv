@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/blaacktv/kingtv/main/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/KING/README.md</externallink>
+<fanart></fanart>
+<info>KING TV ADD-ONS v3.0</info>
+</channel>
+
+</channels>
+
