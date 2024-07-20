@@ -1,50 +1,110 @@
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/804.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H265" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/212.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/3.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/446.m3u8
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD " tvg-logo="https://images2.imgbox.com/12/f1/bjOlE3PT_o.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/861.m3u8
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV H265 " tvg-logo="https://images2.imgbox.com/12/f1/bjOlE3PT_o.png" group-title="CANAIS | DOCUMENTARIOS",HGTV H265 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/225.m3u8
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://images2.imgbox.com/12/f1/bjOlE3PT_o.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/13.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD " tvg-logo="https://images2.imgbox.com/90/c6/WfGLRlos_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/781.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY H265" tvg-logo="https://images2.imgbox.com/90/c6/WfGLRlos_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/255.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://images2.imgbox.com/90/c6/WfGLRlos_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/45.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://images2.imgbox.com/90/c6/WfGLRlos_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/584.m3u8
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD " tvg-logo="https://images2.imgbox.com/9c/7e/5u0u6eDK_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/806.m3u8
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 H265" tvg-logo="https://images2.imgbox.com/9c/7e/5u0u6eDK_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/256.m3u8
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://images2.imgbox.com/9c/7e/5u0u6eDK_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/44.m3u8
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://images2.imgbox.com/9c/7e/5u0u6eDK_o.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/500.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/805.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO H265" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/266.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/54.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/514.m3u8
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD " tvg-logo="https://images2.imgbox.com/38/82/WAMcsVqF_o.png" group-title="CANAIS | DOCUMENTARIOS",TLC FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/809.m3u8
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC H265" tvg-logo="https://images2.imgbox.com/38/82/WAMcsVqF_o.png" group-title="CANAIS | DOCUMENTARIOS",TLC H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/295.m3u8
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://images2.imgbox.com/38/82/WAMcsVqF_o.png" group-title="CANAIS | DOCUMENTARIOS",TLC HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/83.m3u8
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://images2.imgbox.com/38/82/WAMcsVqF_o.png" group-title="CANAIS | DOCUMENTARIOS",TLC SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/558.m3u8
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://images2.imgbox.com/ef/09/8OUuEpbB_o.png" group-title="CANAIS | DOCUMENTARIOS",FISH TV FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/239.m3u8
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://images2.imgbox.com/ef/09/8OUuEpbB_o.png" group-title="CANAIS | DOCUMENTARIOS",FISH TV SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/479.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608201.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61178.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608202.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/24786.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/69149.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608203.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD H265¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608204.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/75487.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD²" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608197.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/94106.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608198.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/75488.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD²" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608199.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD H265¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608200.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4314.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD²" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608190.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97247.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD²" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608191.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/13211.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD²" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97243.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD H265¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608196.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608192.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4367.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6111.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608193.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/69152.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608194.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD H265¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608195.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/10236.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD²" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97546.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7862.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD²" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97545.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/71200.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD²" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97544.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608189.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV SD¹" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4377.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV SD²" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97614.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD¹ " tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV HD¹ 
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/94117.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD²" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97613.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV FHD¹" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608188.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV FHD²" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97612.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO SD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113081.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO SD²" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113082.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113083.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD²" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113084.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113085.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD²" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113087.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD H265¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608187.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129376.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129377.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129378.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129379.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129380.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129381.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H265¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608186.m3u8
