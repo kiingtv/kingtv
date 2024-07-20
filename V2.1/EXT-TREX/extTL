@@ -1,48 +1,78 @@
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/787.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION H265" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/289.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/77.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/551.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD " tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/791.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT H265" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="CANAIS | TELECINE",TELECINE CULT H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/290.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/78.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/552.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/790.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN H265 " tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="CANAIS | TELECINE",TELECINE FUN H265 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/291.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/79.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/553.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/789.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA H265" tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/292.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/80.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/554.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/786.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/293.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/81.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/555.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD " tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/788.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH H265" tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="CANAIS | TELECINE",TELECINE TOUCH H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/294.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/82.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/556.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97300.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | 4K",TELECINE ACTION 4K
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100328.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD¹" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/8141.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD²" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97301.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6080.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97302.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4320.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97305.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD¹" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/63295.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD²" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97306.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/10247.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97307.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="https://prostore.app/logos/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4319.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD¹" tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/63294.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97310.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD²" tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97311.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6079.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD²" tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97312.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD¹ " tvg-logo="https://prostore.app/logos/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD¹ 
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4318.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | 4K",TELECINE PIPOCA 4K
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100329.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD²" tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100570.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD¹" tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100571.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100569.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100568.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD² " tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD² 
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100567.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="https://prostore.app/logos/pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100566.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | 4K",TELECINE PREMIUM 4K
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97588.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD¹" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/63290.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD²" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97320.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97321.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6077.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97322.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="https://prostore.app/logos/tcpremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4316.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD²" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100579.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD¹" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100578.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100577.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100576.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100575.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://prostore.app/logos/telecinetou.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100574.m3u8
