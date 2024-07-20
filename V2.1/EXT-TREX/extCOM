@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/784.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE H265" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE H265
+http://bccdn.xyz:80/live/991736395870BL/202428283140/222.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE HD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/10.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE SD
+http://bccdn.xyz:80/live/991736395870BL/202428283140/461.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title=" CANAIS | 4K",COMBATE 4K
+http://bccdn.xyz:80/live/991736395870BL/202428283140/80559.m3u8
