@@ -1,55 +1,98 @@
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/808.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/224.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/12.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/464.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD " tvg-logo="https://images2.imgbox.com/fe/dd/oT03W6tc_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/818.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO H265" tvg-logo="https://images2.imgbox.com/fe/dd/oT03W6tc_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/230.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://images2.imgbox.com/fe/dd/oT03W6tc_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/18.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://images2.imgbox.com/fe/dd/oT03W6tc_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/467.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD " tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/802.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD H265" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/231.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/19.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD SD
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://images2.imgbox.com/fc/51/FNTee0Ku_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/807.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H H265" tvg-logo="https://images2.imgbox.com/fc/51/FNTee0Ku_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/226.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://images2.imgbox.com/fc/51/FNTee0Ku_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/14.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://images2.imgbox.com/fc/51/FNTee0Ku_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/465.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://images2.imgbox.com/3c/41/DFGKm8Cs_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/820.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="https://images2.imgbox.com/3c/41/DFGKm8Cs_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/228.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://images2.imgbox.com/3c/41/DFGKm8Cs_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/16.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://images2.imgbox.com/3c/41/DFGKm8Cs_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/76670.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://images2.imgbox.com/e9/7c/jCQuyI45_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/821.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER H265" tvg-logo="https://images2.imgbox.com/e9/7c/jCQuyI45_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/229.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://images2.imgbox.com/e9/7c/jCQuyI45_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/17.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://images2.imgbox.com/e9/7c/jCQuyI45_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/76671.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://images2.imgbox.com/68/aa/nkyXN4Yw_o.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/819.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY H265" tvg-logo="https://images2.imgbox.com/68/aa/nkyXN4Yw_o.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/257.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY HD" tvg-logo="https://images2.imgbox.com/68/aa/nkyXN4Yw_o.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/46.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY SD" tvg-logo="https://images2.imgbox.com/68/aa/nkyXN4Yw_o.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/501.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61074.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97174.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6132.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97173.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/69150.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97172.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608498.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4360.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD²" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97180.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6869.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD²" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97179.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/30696.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD²" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97178.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD¹ H265" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY FHD¹ H265
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/94707.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61233.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD²" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97189.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER HD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6130.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER HD²" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97188.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER FHD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/11530.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER FHD²" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97187.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER FHD H265¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608497.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608495.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97177.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6131.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD²" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97176.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/69151.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD²" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97175.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD H265¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608496.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/13206.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD²" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97186.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7861.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97185.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61232.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97184.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD H265¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608494.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61076.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97192.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6877.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97191.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/11531.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD²" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97190.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD H265¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608207.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608205.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97195.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6128.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97194.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61235.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD²" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97193.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD H265¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608206.m3u8
