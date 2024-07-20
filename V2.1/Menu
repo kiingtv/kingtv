@@ -89,4 +89,12 @@
 <info>KING TV AO VIVO</info>
 </channel>
 
+<channel>
+<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | NOTICIAS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extnoti</externallink>
+<fanart></fanart>
+<info>KING TV AO VIVO</info>
+</channel>
+
 </channels>
