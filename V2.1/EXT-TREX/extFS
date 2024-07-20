@@ -1,141 +1,224 @@
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://images2.imgbox.com/2d/88/5XqWzSHh_o.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/835.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://images2.imgbox.com/2d/88/5XqWzSHh_o.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/213.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://images2.imgbox.com/2d/88/5XqWzSHh_o.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/4.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://images2.imgbox.com/2d/88/5XqWzSHh_o.png" group-title="CANAIS  | FILMES E SERIES",AXN SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/447.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/851.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/210.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/1.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/444.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://images2.imgbox.com/ef/e5/kbbzPGMJ_o.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/219.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="https://images2.imgbox.com/ef/e5/kbbzPGMJ_o.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/844.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://images2.imgbox.com/ef/e5/kbbzPGMJ_o.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/7.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://images2.imgbox.com/ef/e5/kbbzPGMJ_o.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/457.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://images2.imgbox.com/a5/f1/PzE1qJZ4_o.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/841.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://images2.imgbox.com/a5/f1/PzE1qJZ4_o.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/221.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://images2.imgbox.com/a5/f1/PzE1qJZ4_o.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/9.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://images2.imgbox.com/a5/f1/PzE1qJZ4_o.png" group-title="CANAIS  | FILMES E SERIES",CINEMAX SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/460.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://images2.imgbox.com/62/9a/FMTf6IwY_o.png" group-title="CANAIS  | FILMES E SERIES",FX FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/842.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="https://images2.imgbox.com/62/9a/FMTf6IwY_o.png" group-title="CANAIS  | FILMES E SERIES",FX FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/246.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://images2.imgbox.com/62/9a/FMTf6IwY_o.png" group-title="CANAIS  | FILMES E SERIES",FX HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/34.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://images2.imgbox.com/62/9a/FMTf6IwY_o.png" group-title="CANAIS  | FILMES E SERIES",FX SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/486.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png" group-title="CANAIS  | FILMES E SERIES",MEGAPIX FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/843.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png" group-title="CANAIS  | FILMES E SERIES",MEGAPIX FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/263.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png" group-title="CANAIS  | FILMES E SERIES",MEGAPIX HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/51.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png" group-title="CANAIS  | FILMES E SERIES",MEGAPIX SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/507.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://images2.imgbox.com/d6/02/PKZ9ucKc_o.png" group-title="CANAIS  | FILMES E SERIES",PARAMOUNT FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/845.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="https://images2.imgbox.com/d6/02/PKZ9ucKc_o.png" group-title="CANAIS  | FILMES E SERIES",PARAMOUNT FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/272.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://images2.imgbox.com/d6/02/PKZ9ucKc_o.png" group-title="CANAIS  | FILMES E SERIES",PARAMOUNT HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/60.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://images2.imgbox.com/d6/02/PKZ9ucKc_o.png" group-title="CANAIS  | FILMES E SERIES",PARAMOUNT SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/519.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/846.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/282.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/70.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/543.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/836.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL H265 " tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL H265 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/241.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/28.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/481.m3u8
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL FHD " tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="CANAIS  | FILMES E SERIES",CINECANAL FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/837.m3u8
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL HD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="CANAIS  | FILMES E SERIES",CINECANAL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/29.m3u8
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL SD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="CANAIS  | FILMES E SERIES",CINECANAL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/482.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/847.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/286.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/74.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/547.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/857.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/287.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/75.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/548.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS FHD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/856.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS FHD H265" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/288.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/76.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/549.m3u8
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS  | FILMES E SERIES",TCM FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/877.m3u8
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS  | FILMES E SERIES",TCM HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/131.m3u8
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS  | FILMES E SERIES",TCM SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/550.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://images2.imgbox.com/3b/43/NXOXkfYe_o.png" group-title="CANAIS  | FILMES E SERIES",TNT FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/785.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://images2.imgbox.com/3b/43/NXOXkfYe_o.png" group-title="CANAIS  | FILMES E SERIES",TNT FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/296.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://images2.imgbox.com/3b/43/NXOXkfYe_o.png" group-title="CANAIS  | FILMES E SERIES",TNT HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/84.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://images2.imgbox.com/3b/43/NXOXkfYe_o.png" group-title="CANAIS  | FILMES E SERIES",TNT SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/559.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="CANAIS  | FILMES E SERIES",TNT SERIES FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/849.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="CANAIS  | FILMES E SERIES",TNT SERIES FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/297.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="CANAIS  | FILMES E SERIES",TNT SERIES HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/85.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="CANAIS  | FILMES E SERIES",TNT SERIES SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/560.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS  | FILMES E SERIES",UNIVERSAL CHANNEL FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/848.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS  | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/301.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS  | FILMES E SERIES",UNIVERSAL CHANNEL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/90.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS  | FILMES E SERIES",UNIVERSAL CHANNEL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/585.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS  | FILMES E SERIES",WARNER CHANNEL FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/850.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS  | FILMES E SERIES",WARNER CHANNEL FHD H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/303.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS  | FILMES E SERIES",WARNER CHANNEL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/93.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS  | FILMES E SERIES",WARNER CHANNEL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/581.m3u8
-
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4395.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97126.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6961.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97127.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/13202.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97128.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD H265¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608227.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4323.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD²" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97129.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7795.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD²" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97130.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/13195.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD²" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97131.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD H265¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608226.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4404.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97221.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/8139.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97220.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61196.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97219.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608224.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD¹" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4324.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97156.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD¹" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7874.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD²" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97155.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD¹" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61217.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD²" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97154.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265¹" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608225.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD¹" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/20891.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97224.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD¹" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7691.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97223.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD¹" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61194.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97222.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD H265¹" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608223.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | 4K",AXN 4K
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/110994.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD¹" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4402.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97227.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD¹" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/60937.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97226.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD¹" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/13212.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97225.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD H265¹" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608222.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD¹" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4393.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97240.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7802.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97239.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD¹" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/10993.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97238.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD H265¹" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608221.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4354.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97350.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6101.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97349.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD¹" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97003.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97348.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD H265¹" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608220.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD¹" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4328.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97329.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD¹" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6085.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97328.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD¹" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/33767.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97327.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD H265¹" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608219.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD¹" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608214.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97584.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD¹" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608215.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6122.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD¹" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97573.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608216.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD H265¹" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608217.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61164.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97583.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6876.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97582.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD¹" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61200.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97581.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD¹" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61017.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD²" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97253.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD¹" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6074.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD²" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97252.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD¹" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61225.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD²" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97251.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD H265¹" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608213.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD¹" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61019.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD²" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97258.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD¹" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6073.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD²" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97257.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD¹" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61226.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD²" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97256.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD H265¹" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608211.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD¹" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4322.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97591.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS HD¹" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/7873.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS HD²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97590.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS FHD¹" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/94154.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS FHD²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97589.m3u8
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS FHD H265¹" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608210.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD¹" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/20465.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD²" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97594.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD¹" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/5987.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD²" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97593.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD¹" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/13192.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD²" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97592.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD H265¹" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608209.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD¹" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/11525.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4307.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD¹" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/6072.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD²" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97598.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD¹" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/61228.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD²" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97597.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD H265¹" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608208.m3u8
