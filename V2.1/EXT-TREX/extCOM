@@ -1,10 +1,14 @@
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/784.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE H265" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/222.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/10.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/461.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title=" CANAIS | 4K",COMBATE 4K
-http://bccdn.xyz:80/live/991736395870BL/202428283140/80559.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608049.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608050.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608055.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608051.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608052.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608053.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608054.m3u8
