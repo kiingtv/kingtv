@@ -1,62 +1,64 @@
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://images2.imgbox.com/d2/6d/eDR5nSJt_o.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/823.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK H265" tvg-logo="https://images2.imgbox.com/d2/6d/eDR5nSJt_o.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/220.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://images2.imgbox.com/d2/6d/eDR5nSJt_o.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/8.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://images2.imgbox.com/d2/6d/eDR5nSJt_o.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/459.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://images2.imgbox.com/fa/14/M5t2la1T_o.png" group-title="CANAIS | INFANTIL",CARTOONITO FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/822.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO H265" tvg-logo="https://images2.imgbox.com/fa/14/M5t2la1T_o.png" group-title="CANAIS | INFANTIL",CARTOONITO H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/217.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://images2.imgbox.com/fa/14/M5t2la1T_o.png" group-title="CANAIS | INFANTIL",CARTOONITO HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/122.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://images2.imgbox.com/fa/14/M5t2la1T_o.png" group-title="CANAIS | INFANTIL",CARTOONITO SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/454.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://images2.imgbox.com/21/15/vbYb7Xkr_o.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/824.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS H265" tvg-logo="https://images2.imgbox.com/21/15/vbYb7Xkr_o.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/227.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://images2.imgbox.com/21/15/vbYb7Xkr_o.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/15.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://images2.imgbox.com/21/15/vbYb7Xkr_o.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/466.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL FHD " tvg-logo="https://images2.imgbox.com/8b/69/3e4xuEij_o.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/825.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://images2.imgbox.com/8b/69/3e4xuEij_o.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/232.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://images2.imgbox.com/8b/69/3e4xuEij_o.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/20.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://images2.imgbox.com/8b/69/3e4xuEij_o.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/3906.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://images2.imgbox.com/76/76/Tstj3Kb1_o.png" group-title="CANAIS | INFANTIL",GLOOB FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/827.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB H265" tvg-logo="https://images2.imgbox.com/76/76/Tstj3Kb1_o.png" group-title="CANAIS | INFANTIL",GLOOB H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/248.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://images2.imgbox.com/76/76/Tstj3Kb1_o.png" group-title="CANAIS | INFANTIL",GLOOB HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/37.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://images2.imgbox.com/76/76/Tstj3Kb1_o.png" group-title="CANAIS | INFANTIL",GLOOB SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/493.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://images2.imgbox.com/73/10/KAxqeqfQ_o.png" group-title="CANAIS | INFANTIL",NICK JR FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/831.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR H265" tvg-logo="https://images2.imgbox.com/73/10/KAxqeqfQ_o.png" group-title="CANAIS | INFANTIL",NICK JR H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/270.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://images2.imgbox.com/73/10/KAxqeqfQ_o.png" group-title="CANAIS | INFANTIL",NICK JR HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/58.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://images2.imgbox.com/73/10/KAxqeqfQ_o.png" group-title="CANAIS | INFANTIL",NICK JR SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/516.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="https://images2.imgbox.com/7e/4d/7iKcubbm_o.png" group-title="CANAIS | INFANTIL",NICKELODEON FHD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/830.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON H265" tvg-logo="https://images2.imgbox.com/7e/4d/7iKcubbm_o.png" group-title="CANAIS | INFANTIL",NICKELODEON H265
-http://bccdn.xyz:80/live/991736395870BL/202428283140/269.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://images2.imgbox.com/7e/4d/7iKcubbm_o.png" group-title="CANAIS | INFANTIL",NICKELODEON HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/57.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://images2.imgbox.com/7e/4d/7iKcubbm_o.png" group-title="CANAIS | INFANTIL",NICKELODEON SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/517.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD " tvg-logo="https://images2.imgbox.com/40/92/CwPvyfhp_o.png" group-title="CANAIS | INFANTIL",TOONCAST FHD 
-http://bccdn.xyz:80/live/991736395870BL/202428283140/834.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://images2.imgbox.com/40/92/CwPvyfhp_o.png" group-title="CANAIS | INFANTIL",TOONCAST HD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/124.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://images2.imgbox.com/40/92/CwPvyfhp_o.png" group-title="CANAIS | INFANTIL",TOONCAST SD
-http://bccdn.xyz:80/live/991736395870BL/202428283140/561.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100255.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100256.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK HD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100257.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100258.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK FHD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100259.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK FHD²" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100260.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD¹" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100269.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD²" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100270.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD¹" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100272.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD²" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100273.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD¹" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100276.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD²" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100275.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV SD
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100245.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV HD
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100246.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV FHD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV FHD
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100247.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100248.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100250.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100253.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100262.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100263.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100264.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100265.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD¹" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100266.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD²" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100267.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608506.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100282.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608509.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100284.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608507.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100286.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608508.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD²" tvg-logo="https://prostore.app/logos/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/604859.m3u8
