@@ -1,3 +1,17 @@
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129380.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129381.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H265¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD H265¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608186.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129378.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129379.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD¹
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129376.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD²
+http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129377.m3u8
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD¹
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608201.m3u8
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD²
@@ -94,17 +108,3 @@ http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113085.m3u8
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/113087.m3u8
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD H265¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD H265¹
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608187.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD¹
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129376.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD²
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129377.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD¹
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129378.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD²
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129379.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD¹
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129380.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD²
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129381.m3u8
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H265¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD H265¹
-http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608186.m3u8
