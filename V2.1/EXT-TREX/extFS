@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD¹
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/4395.m3u8
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD²
