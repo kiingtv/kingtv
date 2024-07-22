@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD²
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/97300.m3u8
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K" tvg-logo="https://prostore.app/logos/tcactinon.png" group-title="CANAIS | 4K",TELECINE ACTION 4K
