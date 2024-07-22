@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS SD¹
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/608139.m3u8
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD²" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS SD²
