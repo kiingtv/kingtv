@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD¹
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/129380.m3u8
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD²
