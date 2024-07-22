@@ -33,7 +33,7 @@
 <thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
 <fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</externallink>
 </channel>
 
 
@@ -43,7 +43,7 @@
 <thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
 <fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extSB</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extSB.XML</externallink>
 </channel>
 
 
@@ -53,7 +53,7 @@
 <thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
 <fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extBN</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extBN.XML</externallink>
 </channel>
 
 
@@ -63,7 +63,7 @@
 <thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
 <fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extrec</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extrec.XML</externallink>
 </channel>
   
 
@@ -73,7 +73,7 @@
 <thumbnail>https://ia600305.us.archive.org/2/items/plutorumtime/CXCXCXDSEWE.PNG</thumbnail>
 <fanart>https://ia600305.us.archive.org/2/items/plutorumtime/CXCXCXDSEWE.PNG</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extDIS</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extDIS.XML</externallink>
 </channel>
 
 
@@ -83,13 +83,94 @@
 <thumbnail>https://ia800305.us.archive.org/2/items/plutorumtime/TRTRTRHGG.PNG</thumbnail>
 <fanart>https://ia800305.us.archive.org/2/items/plutorumtime/TRTRTRHGG.PNG</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extDOC</externallink>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extDOC.XML</externallink>
 </channel>
 
 
 
 
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS TELECINE [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extTL.XML</externallink>
+</channel>
+
+
   
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS HBO [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extHB.XML</externallink>
+</channel>
+
+
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS COMBATE UFC [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extCOM.XML</externallink>
+</channel>
+
+
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS FILMES & SÉRIES [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extFS.XML</externallink>
+</channel>
+
+
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS INFANTIL [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extIF.XML</externallink>
+</channel>
+
+
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS SPORTV [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extspt.XML</externallink>
+</channel>
+
+
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS NOTÍCIAS [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extnoti.XML</externallink>
+</channel>
 
 
 
