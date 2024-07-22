@@ -1,115 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
 
-</channels> 
 
-<name>[B][COLOR blue] =======[/COLOR] [COLOR yellow] SEJAM BEM VINDOS AO PLUGINSTREAMING [B][COLOR blue] ======= [/COLOR][/B]</name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
 
 <channels>
+
+  
+
+
+  
+
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | GLOBO[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<name>[B][COLOR blue] =======[/COLOR] [COLOR yellow] SEJAM BEM VINDOS A KING TV [B][COLOR blue] ======= [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/CATEGORIA/main/README.md</externallink>
+</channel>
+
+
+  
+<channel>
+<name>[B][COLOR light blue] =======[/COLOR] [COLOR yellow] AJUDE O PROJETO COM UM PIX [B][COLOR light blue] ======= [/COLOR][/B]</name>
+<thumbnail>https://ia804502.us.archive.org/11/items/qr-code_202407/QR%20CODE.jpg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] AJUDE O PROJETO COM UM PIX [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Q%20R%20CODE.XML</externallink>
+</channel>
+
+
+  
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS GLOBO [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
 </channel>
 
+
+
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | SBT[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS SBT [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extSB</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
 </channel>
 
+
+
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | BAND[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS BAND [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extBN</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
 </channel>
 
+
+
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | RECORD[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS RECORD [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extrec</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
 </channel>
+  
+
 
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | DISCOVERY[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS DISCOVERY [/COLOR][/B]</name>
+<thumbnail>https://ia600305.us.archive.org/2/items/plutorumtime/CXCXCXDSEWE.PNG</thumbnail>
+<fanart>https://ia600305.us.archive.org/2/items/plutorumtime/CXCXCXDSEWE.PNG</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extDIS</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
 </channel>
 
+
+
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | DOCUMENTÁRIOS[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS DOCUMENTÁRIOS [/COLOR][/B]</name>
+<thumbnail>https://ia800305.us.archive.org/2/items/plutorumtime/TRTRTRHGG.PNG</thumbnail>
+<fanart>https://ia800305.us.archive.org/2/items/plutorumtime/TRTRTRHGG.PNG</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extDOC</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | TELECINE[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extTL</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | HBO[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extHB</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | COMBATE UFC[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extCOM</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | FILMES E SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extFS</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | INFANTIL[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extIF</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | SPORTV[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extspt</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]CANAIS | NOTICIAS[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/Extnoti</externallink>
-<fanart></fanart>
-<info>KING TV AO VIVO</info>
 </channel>
 
 
-</channels>
 
+
+  
+
+
+
+
+</channels> 
