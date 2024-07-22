@@ -9,10 +9,10 @@
   
 
 <channel>
-<name>[B][COLOR blue] =======[/COLOR] [COLOR gold] SEJA BEM VINDOS A KING TV [B][COLOR blue] ======= [/COLOR][/B]</name>
+<name>[B][COLOR blue] =======[/COLOR] [COLOR gold] SEJAM BEM-VINDOS A KING TV [B][COLOR blue] ======= [/COLOR][/B]</name>
 <thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
 <fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] SEJA BEM VINDOS A KING TV AO VIVO [/COLOR]</info>
+<info>[COLOR blue] [COLOR blue] SEJAM BEM-VINDOS A KING TV AO VIVO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/README.md</externallink>
 </channel>
 
@@ -21,10 +21,17 @@
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] KING TV AO VIVO [/COLOR][/B]</name>
 <thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
 <fanart>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</fanart>
-<info>[COLOR blue] [COLOR blue] SEJA BEM VINDOS A KING TV AO VIVO [/COLOR]</info>
+<info>[COLOR blue] [COLOR blue] SEJAM BEM-VINDOS A KING TV AO VIVO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] KING TV FILMES [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] SEJAM BEM-VINDOS A KING TV [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20DE%20FILMES.XML</externallink>
+</channel>
   
 <channel>
 <name>[B][COLOR light blue] =======[/COLOR] [COLOR yellow] AJUDE O PROJETO COM UM PIX [B][COLOR light blue] ======= [/COLOR][/B]</name>
