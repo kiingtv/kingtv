@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD¹
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/100255.m3u8
 #EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD²
