@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD TV SP SD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SP SD
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/624935.m3u8
 #EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD TV SP HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SP HD
