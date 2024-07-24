@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO  | COPA DO BRASIL 1¹" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F528.png" group-title=" CANAIS | COPA DO BRASIL",PRIME VIDEO  | COPA DO BRASIL 1¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/live/fbziigrk/6st174ViTq/601976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129970=http://51.79.39.236:80/live/fbziigrk/6st174ViTq/601976.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO  | COPA DO BRASIL 1²" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F528.png" group-title=" CANAIS | COPA DO BRASIL",PRIME VIDEO  | COPA DO BRASIL 1²
 http://51.79.39.236:80/live/fbziigrk/6st174ViTq/601981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO  | COPA DO BRASIL 02¹" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F528.png" group-title=" CANAIS | COPA DO BRASIL",PRIME VIDEO  | COPA DO BRASIL 02¹
