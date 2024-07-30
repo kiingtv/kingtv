@@ -1464,302 +1464,302 @@ plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOME
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48632.m3u8
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV SD" tvg-logo="" group-title="CANAIS || ABERTOS",Rede TV SD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Central HD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT Central HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Parana FHD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT Parana FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT Parana HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Ribeirao Preto FHD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT Ribeirao Preto FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Central HD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT CENTRAL HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT CENTRAL HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Parana FHD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT PARANA FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT PARANA FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT PARANA HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT PARANA HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Ribeirao Preto FHD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT RIBEIRAO PRETO FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT RIBEIRAO PRETO FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364989.m3u8
 #EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT RJ FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48937.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT RJ FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48937.m3u8
 #EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT RJ HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/119052.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT RJ HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/119052.m3u8
 #EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT RS HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48926.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT RS HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48926.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118499.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118499.m3u8
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP 4K FHDR" tvg-logo="http://lxls.mx:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS || ABERTOS",SBT SP 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115620.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT SP 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115620.m3u8
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT SP FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48956.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT SP FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48956.m3u8
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT SP HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350106.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT SP HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350106.m3u8
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT SP SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Teresina HD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT Teresina HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT VTV Campinas HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49591.m3u8
-#EXTINF:-1 tvg-id="space.3.br" tvg-name="Space 4K FHDR" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS || FILMES & SÉRIES",Space 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118956.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",Space FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3728.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD [H265]" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",Space FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71096.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",Space HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3729.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD [Alter]" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",Space HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332408.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",Space SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4344.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SporTV 2 FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3696.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SporTV 2 FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71097.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SporTV 2 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3697.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SporTV 2 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332417.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SporTV 2 SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5991.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SporTV 3 FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/70889.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SporTV 3 FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71098.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SporTV 3 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3699.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SporTV 3 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332418.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SporTV 3 SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5992.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SporTV 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115899.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SporTV FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/70888.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SporTV FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71099.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SporTV HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/11691.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SporTV HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332419.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SporTV SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/28857.m3u8
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/fox.png" group-title="CANAIS || FILMES & SÉRIES",Star Channel 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115995.m3u8
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel FHD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",Star Channel FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3711.m3u8
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",Star Channel FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71100.m3u8
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel HD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",Star Channel HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3712.m3u8
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel HD [Alter]" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",Star Channel HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332409.m3u8
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel SD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",Star Channel SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4356.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT SP SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Teresina HD" tvg-logo="" group-title="CANAIS || ABERTOS",SBT TERESINA HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT TERESINA HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="CANAIS || ABERTOS",SBT VTV CAMPINAS HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SBT VTV CAMPINAS HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49591.m3u8
+#EXTINF:-1 tvg-id="space.3.br" tvg-name="Space 4K FHDR" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS || FILMES & SÉRIES",SPACE 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPACE 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118956.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",SPACE FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPACE FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3728.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD [H265]" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",SPACE FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPACE FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71096.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",SPACE HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPACE HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3729.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD [Alter]" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",SPACE HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPACE HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332408.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="CANAIS || FILMES & SÉRIES",SPACE SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPACE SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4344.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SPORTV 2 FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 2 FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3696.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SPORTV 2 FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 2 FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71097.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SPORTV 2 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 2 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3697.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SPORTV 2 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 2 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332417.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="CANAIS || SPORTV",SPORTV 2 SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 2 SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5991.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SPORTV 3 FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 3 FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/70889.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SPORTV 3 FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 3 FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71098.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SPORTV 3 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 3 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3699.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SPORTV 3 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 3 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332418.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="CANAIS || SPORTV",SPORTV 3 SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 3 SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5992.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SPORTV 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115899.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SPORTV FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/70888.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SPORTV FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71099.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SPORTV HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/11691.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SPORTV HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332419.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="CANAIS || SPORTV",SPORTV SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SPORTV SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/28857.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/fox.png" group-title="CANAIS || FILMES & SÉRIES",STAR CHANNEL 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR CHANNEL 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115995.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel FHD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",STAR CHANNEL FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR CHANNEL FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3711.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",STAR CHANNEL FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR CHANNEL FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71100.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel HD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",STAR CHANNEL HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR CHANNEL HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3712.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel HD [Alter]" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",STAR CHANNEL HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR CHANNEL HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332409.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel SD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="CANAIS || FILMES & SÉRIES",STAR CHANNEL SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR CHANNEL SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4356.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 1 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 1 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332982.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 1 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 1 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 1 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332982.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 2 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 2 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332983.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 2 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 2 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 2 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332983.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 3 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 3 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332984.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 3 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 3 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 3 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332984.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 4 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 4 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332985.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 4 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/102878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 4 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 4 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332985.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 5 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 5 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332986.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 5 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 5 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 5 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332986.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 6 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 6 HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332987.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",Studio Universal FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3736.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD [H265]" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",Studio Universal FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71103.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",Studio Universal HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3737.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD [Alter]" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",Studio Universal HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332410.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",Studio Universal SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4342.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",Syfy FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/11173.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",Syfy HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5996.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD [Alter]" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",Syfy HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332411.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",Syfy SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5997.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 6 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD [Alter]" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="CANAIS || STAR+",STAR+ 6 HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STAR+ 6 HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332987.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",STUDIO UNIVERSAL FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STUDIO UNIVERSAL FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3736.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD [H265]" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",STUDIO UNIVERSAL FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STUDIO UNIVERSAL FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71103.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STUDIO UNIVERSAL HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3737.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD [Alter]" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",STUDIO UNIVERSAL HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STUDIO UNIVERSAL HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332410.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="CANAIS || FILMES & SÉRIES",STUDIO UNIVERSAL SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]STUDIO UNIVERSAL SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4342.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",SYFY FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SYFY FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/11173.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",SYFY HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SYFY HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5996.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD [Alter]" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",SYFY HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SYFY HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332411.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="https://liebeurl.me/logos/syfy.png" group-title="CANAIS || FILMES & SÉRIES",SYFY SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]SYFY SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5997.m3u8
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://a5.vc/Crr" group-title="CANAIS || FILMES & SÉRIES",TBS FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49283.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TBS FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49283.m3u8
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://www.liebeurl.me/logos/tcm.png" group-title="CANAIS || FILMES & SÉRIES",TCM FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49284.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TCM FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49284.m3u8
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://www.liebeurl.me/logos/tcm.png" group-title="CANAIS || FILMES & SÉRIES",TCM HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/25663.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TCM HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/25663.m3u8
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://www.liebeurl.me/logos/tcm.png" group-title="CANAIS || FILMES & SÉRIES",TCM SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3738.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",Telecine Action 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116013.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",Telecine Action FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3895.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",Telecine Action FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71106.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",Telecine Action HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3896.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD [Alter]" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecineaction.png" group-title="CANAIS || TELECINE",Telecine Action HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262637.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action SD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",Telecine Action SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4076.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",Telecine Cult FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3897.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",Telecine Cult FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71107.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",Telecine Cult HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3898.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",Telecine Cult HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262632.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult SD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",Telecine Cult SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4078.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",Telecine Fun FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3899.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",Telecine Fun FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71108.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",Telecine Fun HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3900.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",Telecine Fun HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262633.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun SD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",Telecine Fun SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4080.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",Telecine Pipoca 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116014.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",Telecine Pipoca FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3901.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",Telecine Pipoca FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71109.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",Telecine Pipoca HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3902.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",Telecine Pipoca HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262634.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",Telecine Pipoca SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4082.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",Telecine Premium 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116015.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",Telecine Premium FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3903.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",Telecine Premium FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71110.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",Telecine Premium HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3904.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",Telecine Premium HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262635.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium SD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",Telecine Premium SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4596.m3u8
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",Telecine Touch FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3905.m3u8
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",Telecine Touch FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71111.m3u8
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",Telecine Touch HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3906.m3u8
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",Telecine Touch HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262636.m3u8
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch SD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",Telecine Touch SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4578.m3u8
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terra Viva HD" tvg-logo="" group-title="CANAIS || ABERTOS",Terra Viva HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD" tvg-logo="" group-title="CANAIS || ABERTOS",Terra Viva SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/343053.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TCM SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3738.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",TELECINE ACTION 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE ACTION 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116013.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",TELECINE ACTION FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE ACTION FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3895.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",TELECINE ACTION FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE ACTION FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71106.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",TELECINE ACTION HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE ACTION HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3896.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD [Alter]" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecineaction.png" group-title="CANAIS || TELECINE",TELECINE ACTION HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE ACTION HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262637.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action SD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="CANAIS || TELECINE",TELECINE ACTION SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE ACTION SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4076.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",TELECINE CULT FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE CULT FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3897.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",TELECINE CULT FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE CULT FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71107.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",TELECINE CULT HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE CULT HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3898.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",TELECINE CULT HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE CULT HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262632.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult SD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="CANAIS || TELECINE",TELECINE CULT SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE CULT SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4078.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",TELECINE FUN FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE FUN FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3899.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",TELECINE FUN FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE FUN FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71108.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",TELECINE FUN HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE FUN HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3900.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",TELECINE FUN HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE FUN HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262633.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun SD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="CANAIS || TELECINE",TELECINE FUN SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE FUN SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4080.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",TELECINE PIPOCA 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PIPOCA 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116014.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",TELECINE PIPOCA FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PIPOCA FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3901.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",TELECINE PIPOCA FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PIPOCA FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71109.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PIPOCA HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3902.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",TELECINE PIPOCA HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PIPOCA HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262634.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="CANAIS || TELECINE",TELECINE PIPOCA SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow],TELECINE PIPOCA SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4082.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",TELECINE PREMIUM 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PREMIUM 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/116015.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",TELECINE PREMIUM FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PREMIUM FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3903.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",TELECINE PREMIUM FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PREMIUM FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71110.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PREMIUM HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3904.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",TELECINE PREMIUM HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PREMIUM HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262635.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium SD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="CANAIS || TELECINE",TELECINE PREMIUM SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE PREMIUM SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4596.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",TELECINE TOUCH FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE TOUCH FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3905.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",TELECINE TOUCH FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE TOUCH FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71111.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE TOUCH HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3906.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD [Alter]" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",TELECINE TOUCH HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE TOUCH HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/262636.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch SD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="CANAIS || TELECINE",TELECINE TOUCH SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TELECINE TOUCH SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4578.m3u8
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terra Viva HD" tvg-logo="" group-title="CANAIS || ABERTOS",TERRA VIVA HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TERRA VIVA HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD" tvg-logo="" group-title="CANAIS || ABERTOS",TERRA VIVA SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TERRA VIVA SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/343053.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K FHDR" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118957.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118957.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3739.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3739.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71112.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71112.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3740.m3u8
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT Novelas FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT Novelas FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT Novelas HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT Novelas HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas SD" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT Novelas SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350162.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3740.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT NOVELAS FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT NOVELAS FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT NOVELAS FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT NOVELAS FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT NOVELAS HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT NOVELAS HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT NOVELAS HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT NOVELAS HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas SD" tvg-logo="https://www.liebeurl.me/logos/tntnovelas.png" group-title="CANAIS || FILMES & SÉRIES",TNT NOVELAS SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT NOVELAS SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/350162.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="CANAIS || FILMES & SÉRIES",TNT SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4340.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series 4K FHDR" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT Series 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118958.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT Series FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3741.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD [H265]" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT Series FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71113.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT Series HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3742.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD [Alter]" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT Series HD [Alter]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332414.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT Series SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4338.m3u8
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="CANAIS || INFANTIL",Tooncast FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5993.m3u8
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="CANAIS || INFANTIL",Tooncast HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/8049.m3u8
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="CANAIS || INFANTIL",Tooncast SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3840.m3u8
-#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca FHD" tvg-logo="https://liebeurl.me/logos/tracebrazuca.png" group-title="CANAIS || VARIEDADES",Trace Brazuca FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118368.m3u8
-#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca HD" tvg-logo="https://liebeurl.me/logos/tracebrazuca.png" group-title="CANAIS || VARIEDADES",Trace Brazuca HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118370.m3u8
-#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca SD" tvg-logo="https://liebeurl.me/logos/tracebrazuca.png" group-title="CANAIS || VARIEDADES",Trace Brazuca SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118369.m3u8
-#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://www.liebeurl.me/logos/travelboxbrazil.png" group-title="CANAIS || VARIEDADES",Travel Box Brazil FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/62828.m3u8
-#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://www.liebeurl.me/logos/travelboxbrazil.png" group-title="CANAIS || VARIEDADES",Travel Box Brazil HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4186.m3u8
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV HD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="CANAIS || DOCUMENTÁRIOS",TruTV HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4499.m3u8
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV SD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="CANAIS || DOCUMENTÁRIOS",TruTV SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/40628.m3u8
-#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV Camara SD" tvg-logo="" group-title="CANAIS || ABERTOS",TV Camara SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48964.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4340.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series 4K FHDR" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT SERIES 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SERIES 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118958.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT SERIES FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SERIES FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3741.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD [H265]" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT SERIES FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SERIES FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71113.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT SERIES HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SERIES HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3742.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD [Alter]" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT SERIES HD [ALTER]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SERIES HD [ALTER][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/332414.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="CANAIS || FILMES & SÉRIES",TNT SERIES SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TNT SERIES SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4338.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="CANAIS || INFANTIL",TOONCAST FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TOONCAST FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/5993.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="CANAIS || INFANTIL",TOONCAST HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TOONCAST HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/8049.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="CANAIS || INFANTIL",TOONCAST SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TOONCAST SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3840.m3u8
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca FHD" tvg-logo="https://liebeurl.me/logos/tracebrazuca.png" group-title="CANAIS || VARIEDADES",TRACE BRAZUCA FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRACE BRAZUCA FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118368.m3u8
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca HD" tvg-logo="https://liebeurl.me/logos/tracebrazuca.png" group-title="CANAIS || VARIEDADES",TRACE BRAZUCA HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRACE BRAZUCA HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118370.m3u8
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca SD" tvg-logo="https://liebeurl.me/logos/tracebrazuca.png" group-title="CANAIS || VARIEDADES",TRACE BRAZUCA SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRACE BRAZUCA SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/118369.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://www.liebeurl.me/logos/travelboxbrazil.png" group-title="CANAIS || VARIEDADES",TRAVEL BOX BRAZIL FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRAVEL BOX BRAZIL FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/62828.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://www.liebeurl.me/logos/travelboxbrazil.png" group-title="CANAIS || VARIEDADES",TRAVEL BOX BRAZIL HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRAVEL BOX BRAZIL HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4186.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV HD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="CANAIS || DOCUMENTÁRIOS",TRUTV HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRUTV HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4499.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV SD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="CANAIS || DOCUMENTÁRIOS",TRUTV SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TRUTV SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/40628.m3u8
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV Camara SD" tvg-logo="" group-title="CANAIS || ABERTOS",TV CAMARA SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV CAMARA SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48964.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA EDUCAÇÃO HD" tvg-logo="" group-title="CANAIS || ABERTOS",TV CULTURA EDUCAÇÃO HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364421.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV CULTURA EDUCAÇÃO HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA EDUCAÇÃO SD" tvg-logo="" group-title="CANAIS || ABERTOS",TV CULTURA EDUCAÇÃO SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364420.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" tvg-logo="" group-title="CANAIS || ABERTOS",TV Cultura FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49587.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="" group-title="CANAIS || ABERTOS",TV Cultura HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48981.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura SD" tvg-logo="" group-title="CANAIS || ABERTOS",TV Cultura SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48962.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Globinho HD" tvg-logo="" group-title="CANAIS || INFANTIL",TV Globinho HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/261930.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV CULTURA EDUCAÇÃO SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364420.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" tvg-logo="" group-title="CANAIS || ABERTOS",TV CULTURA FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV CULTURA FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49587.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="" group-title="CANAIS || ABERTOS",TV CULTURA HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV CULTURA HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48981.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura SD" tvg-logo="" group-title="CANAIS || ABERTOS",TV CULTURA SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV CULTURA SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/48962.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Globinho HD" tvg-logo="" group-title="CANAIS || INFANTIL",TV GLOBINHO HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV GLOBINHO HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/261930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV JOCKEY" tvg-logo="" group-title="CANAIS || ABERTOS",TV JOCKEY
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="https://liebeurl.me/logos/tvnsports.png" group-title=" CANAIS | PPV",TV NSports 1 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/64189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://liebeurl.me/logos/tvnsports.png" group-title=" CANAIS | PPV",TV NSports 2 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/64190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 3 HD" tvg-logo="https://liebeurl.me/logos/tvnsports.png" group-title=" CANAIS | PPV",TV NSports 3 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/64191.m3u8
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="CANAIS || INFANTIL",TV Ra Tim Bum HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4560.m3u8
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="CANAIS || INFANTIL",TV Ra Tim Bum SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4561.m3u8
-#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado SD" tvg-logo="http://lxls.mx:80/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="CANAIS || ABERTOS",TV Senado SD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 01 HD" tvg-logo="https://liebeurl.me/logos/ufcpass.png" group-title=" CANAIS | PPV",UFC Fight Pass 01 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/331783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 02 HD" tvg-logo="https://liebeurl.me/logos/ufcpass.png" group-title=" CANAIS | PPV",UFC Fight Pass 02 HD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/113949.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/universalchannel.png" group-title="CANAIS || FILMES & SÉRIES",Universal TV 4K FHDR
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115997.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="https://liebeurl.me/logos/universaltv.png" group-title="CANAIS || FILMES & SÉRIES",Universal TV FHD
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/28860.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD [H265]" tvg-logo="https://liebeurl.me/logos/universaltv.png" group-title="CANAIS || FILMES & SÉRIES",Universal TV FHD [H265]
-plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]NOMEDOCAN[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71114.m3u8
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV JOCKEY[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/364489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="https://liebeurl.me/logos/tvnsports.png" group-title=" CANAIS | PPV",TV NSPORTS 1 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV NSPORTS 1 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/64189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://liebeurl.me/logos/tvnsports.png" group-title=" CANAIS | PPV",TV NSPORTS 2 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV NSPORTS 2 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/64190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 3 HD" tvg-logo="https://liebeurl.me/logos/tvnsports.png" group-title=" CANAIS | PPV",TV NSPORTS 3 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV NSPORTS 3 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/64191.m3u8
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="CANAIS || INFANTIL",TV RA TIM BUM HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV RA TIM BUM HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4560.m3u8
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="CANAIS || INFANTIL",TV RA TIM BUM SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV RA TIM BUM SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/4561.m3u8
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado SD" tvg-logo="http://lxls.mx:80/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="CANAIS || ABERTOS",TV SENADO SD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]TV SENADO SD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/49606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 01 HD" tvg-logo="https://liebeurl.me/logos/ufcpass.png" group-title=" CANAIS | PPV",UFC FIGHT PASS 01 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]UFC FIGHT PASS 01 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/331783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 02 HD" tvg-logo="https://liebeurl.me/logos/ufcpass.png" group-title=" CANAIS | PPV",UFC FIGHT PASS 02 HD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]UFC FIGHT PASS 02 HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/113949.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/universalchannel.png" group-title="CANAIS || FILMES & SÉRIES",UNIVERSAL TV 4K FHDR
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]UNIVERSAL TV 4K FHDR[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/115997.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="https://liebeurl.me/logos/universaltv.png" group-title="CANAIS || FILMES & SÉRIES",UNIVERSAL TV FHD
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]UNIVERSAL TV FHD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/28860.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD [H265]" tvg-logo="https://liebeurl.me/logos/universaltv.png" group-title="CANAIS || FILMES & SÉRIES",UNIVERSAL TV FHD [H265]
+plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]UNIVERSAL TV FHD [H265][/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/71114.m3u8
 #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="https://liebeurl.me/logos/universaltv.png" group-title="CANAIS || FILMES & SÉRIES",UNIVERSAL TV HD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLORyellow]UNIVERSAL TV HD[/COLOR][/B][COLOR turquoise]@ KINGTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://rdns.tv:80/live/18wesley/09kjksz/3744.m3u8
 #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD [Alter]" tvg-logo="https://liebeurl.me/logos/universaltv.png" group-title="CANAIS || FILMES & SÉRIES",UNIVERSAL TV HD [ALTER]
