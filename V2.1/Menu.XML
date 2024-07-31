@@ -9,25 +9,25 @@
   
 
 <channel>
-<name>[B][COLOR blue] [ [/COLOR] [COLOR gold] SEJA BEM-VINDO A KING TV [B][COLOR blue] ] [/COLOR][/B]</name>
+<name>[B][COLOR blue] [ [/COLOR] [COLOR gold] 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰 𝙺𝙸𝙽𝙶 𝚃𝚅 [B][COLOR blue] ] [/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<info>[COLOR blue] [COLOR blue] SEJA BEM-VINDO A KING TV [V3.1] [/COLOR]</info>
+<info>[COLOR blue] [COLOR blue] 𝙺𝙸𝙽𝙶 𝚃𝚅 𝚟3.1 [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/README.md</externallink>
 </channel>
 
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] KING TV AO VIVO [/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] 𝚃𝚅 𝙰𝙾 𝚅𝙸𝚅𝙾 [/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/kiingtv/kingtv/main/icon.jpg</thumbnail>
-<info>[COLOR blue] [COLOR blue] SEJA BEM-VINDO A KING TV [V3.1] [/COLOR]</info>
+<info>[COLOR blue] [COLOR blue] 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰 𝙺𝙸𝙽𝙶 𝚃𝚅 [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</externallink>
 </channel>
 
   
 <channel>
-<name>[B][COLOR light blue] ==[/COLOR] [COLOR yellow] VERSÃO DO ADDONS [V3.1][B][COLOR light blue] ==[/COLOR][/B]</name>
-<info>[COLOR blue] [COLOR blue] TELEGRAM T.ME/BLACKSHEEP_B [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/READM.XML</externallink>
+<name>[B][COLOR light blue] =[/COLOR] [COLOR yellow] 𝚅𝙴𝚁𝚂Ã𝙾 𝙳𝙾 𝙰𝙳𝙳-𝙾𝙽 𝚟3.1 [B][COLOR light blue] =[/COLOR][/B]</name>
+<info>[COLOR blue] [COLOR blue] 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝚃.𝙼𝙴/𝙱𝙻𝙰𝙲𝙺𝚂𝙷𝙴𝙴𝙿_𝙱 [/COLOR]</info>
+<externallink>https://kiingtv.github.io/kingtv/</externallink>
 </channel>
 
 
