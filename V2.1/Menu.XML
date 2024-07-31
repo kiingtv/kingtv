@@ -22,8 +22,10 @@
 		<regex>
 			<name>resolver</name>
 			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
+			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</page>
 		</regex>
     </item>	
 	
 </items>
+
+
