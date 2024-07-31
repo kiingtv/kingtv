@@ -12,7 +12,7 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]</link>
+        <link>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.xml</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
@@ -27,5 +27,3 @@
     </item>	
 	
 </items>
-
-
