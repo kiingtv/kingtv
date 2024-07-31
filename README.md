@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kiingtv/kingtv/main/KING-TV-30-07-2024.png" width="400" /> 
+<img src="https://raw.githubusercontent.com/kiingtv/kingtv/main/KING-TV-30-07-2024.png" width="500" /> 
 
 <li><b>ESTE É UM RECURSO SEM FINS LUCRATIVOS.</b></li>
 <li><b>O AUTOR NÃO É DE FORMA ALGUMA AFILIADO DO KODI.</b></li>                                                      
