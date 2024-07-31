@@ -5,13 +5,4 @@
 <li><strong>ATUALIZAÇÃO DE FORMA AUTOMÁTICA. ❤️</strong></li>
 <li> <a href="plugin.video.kingtv.zip"><b>DOWNLOAD ADD-ON</b> 📂</a></li> 
 <li> <a href="plugin.video.kingf4m.zip"><b>DOWNLOAD KINGF4M</b> 📂</a></li> 
-<li><b>KING TV ADD-ON V3.1</b> <strong>©2024</strong></li>                                                                                
-
-
-      ████████████████████████████████████████████
-      ▒▒▄▀▀▀▀▀▄▒▒▒▒▒▄▄▄▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-      ▒▐░▄░░░▄░▌▒▒▄█▄█▄█▄█▄▒▒▒▄▄▄▒▒▒█▒▒▒▒▄▒▒▒▒▒▒▒▒
-      ▒▐░▀▀░▀▀░▌▒▒▒▒▒░░░▒▒▒▒▒█▀█▀█▒█▀█▒▒█▀█▒▄███▄▒
-      ▒▒▀▄░═░▄▀▒▒▒▒▒▒░░░▒▒▒▒░█▀█▀█░█▀██░█▀█░█▄█▄█░
-      ▒▒▐░▀▄▀░▌▒▒▒▒▒▒░░░▒▒▒▒░█▀█▀█░█▀████▀█░█▄█▄█░
-      ████████████████████████████████████████████
+<li><b>KING TV ADD-ON V3.1</b> <strong>©2024</strong></li>                                                                         
