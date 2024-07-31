@@ -22,7 +22,7 @@
 		<regex>
 			<name>resolver</name>
 			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</page>
+			<page>https:https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</page>
 		</regex>
     </item>	
 	
