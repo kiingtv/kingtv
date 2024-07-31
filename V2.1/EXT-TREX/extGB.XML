@@ -17,7 +17,7 @@
         <genre>Animation</genre>
         <info>Anime teste</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <epg>APENAS TESTE V3.1</epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
 		<regex>
 			<name>resolver</name>
