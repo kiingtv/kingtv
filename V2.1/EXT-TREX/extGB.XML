@@ -2,6 +2,7 @@
 
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="GLOBO SP",GLOBO SP FHD
 http://dns.mboxus.net:8080/live/andrekd29ne/redinhapb63fg/62169.m3u8
+<info>Após um acidente em alto mar, três jovens são resgatados por um barco de pesca. Mas a ajuda se torna um pesadelo quando descobrem que o capitão esconde segredos terríveis.</info>
 #EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP HD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="GLOBO SP",GLOBO SP HD
 http://dns.mboxus.net:8080/live/andrekd29ne/redinhapb63fg/1948.m3u8
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="GLOBO SP",GLOBO SP
