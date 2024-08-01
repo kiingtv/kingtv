@@ -1392,11 +1392,11 @@ plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]TELEC
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]TERRA VIVA FHD[/COLOR][/B]         [COLOR yellow]@[B]KING TV[/B][/COLOR]&maxbitrate=65000&url=http://game.shiuk.re:80/286885/044222/539.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Terra Viva HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1280px-Terra_Viva_logo.svg.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]TERRA VIVA HD[/COLOR][/B]         [COLOR yellow]@[B]KING TV[/B][/COLOR]&maxbitrate=65000&url=http://game.shiuk.re:80/286885/044222/540.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="The History FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY FHD
+#EXTINF:-1 tvg-id="history.br" tvg-name="The History FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY FHD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]THE HISTORY FHD[/COLOR][/B]         [COLOR yellow]@[B]KING TV[/B][/COLOR]&maxbitrate=65000&url=http://game.shiuk.re:80/286885/044222/302.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="The History HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY HD
+#EXTINF:-1 tvg-id="history.br" tvg-name="The History HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY HD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]THE HISTORY HD[/COLOR][/B]         [COLOR yellow]@[B]KING TV[/B][/COLOR]&maxbitrate=65000&url=http://game.shiuk.re:80/286885/044222/303.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="The History SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY SD
+#EXTINF:-1 tvg-id="history.br" tvg-name="The History SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY SD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]THE HISTORY SD[/COLOR][/B]         [COLOR yellow]@[B]KING TV[/B][/COLOR]&maxbitrate=65000&url=http://game.shiuk.re:80/286885/044222/304.m3u8
 #EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/0092aa7d6d8fb52c83803da249ec5652.png" group-title="CANAIS | FILMES & SÉRIES",TLC FHD
 plugin://plugin.video.kingf4m/?streamtype=TSDOWNLOADER&name=[B][COLOR blue]TLC FHD[/COLOR][/B]         [COLOR yellow]@[B]KING TV[/B][/COLOR]&maxbitrate=65000&url=http://game.shiuk.re:80/286885/044222/753.m3u8
