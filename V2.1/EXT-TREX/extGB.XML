@@ -1,4 +1,8 @@
 #EXTM3U
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+
 #EXTINF:-1 tvg-id="" tvg-name="24h 101 Dálmatas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | 24H",24h 101 Dálmatas
 http://game.shiuk.re:80/286885/044222/140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | 24H",24h 3 Palavrinhas
