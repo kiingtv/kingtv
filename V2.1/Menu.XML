@@ -23,6 +23,15 @@
 <externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/extGB.XML</externallink>
 </channel>
 
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] FILMES 2023 [/COLOR][/B]</name>
+<thumbnail>https://ia902207.us.archive.org/16/items/icon_20240710/icon.jpeg</thumbnail>
+<fanart>https://ia803206.us.archive.org/32/items/fanart_20240624/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] SEJA BEM VINDO A KING TV [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/kiingtv/kingtv/main/V2.1/EXT-TREX/FML.xml</externallink>
+</channel>
+
   
 <channel>
 <name>[B][COLOR light blue] =[/COLOR] [B][COLOR red] VERSÃO DO ADD-ON V3.1 [/B][B][COLOR light blue] =[/COLOR][/B]</name>
